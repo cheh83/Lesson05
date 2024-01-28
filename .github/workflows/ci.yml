@@ -1,7 +1,6 @@
 name: Check code qality
 
 on: [push]
-
 jobs:
   code-qality:
     runs-on: ubuntu-latest
